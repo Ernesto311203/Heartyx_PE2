@@ -1,0 +1,7 @@
+SERVICE_UUID = "9ecadc24-0ee5-a9e0-93f3-a3b50100406e"
+TX_CHAR_UUID = "9ecadc24-0ee5-a9e0-93f3-a3b50300406e"
+RX_CHAR_UUID = "9ecadc24-0ee5-a9e0-93f3-a3b50900406e"
+DEVICE_NAME = "HEARTYX"
+DB_NAME = "vitales.db"
+MODEL_PATH = "model_compatible.h5"
+LOGO_PATH = "Logo_PE2.jpg"
